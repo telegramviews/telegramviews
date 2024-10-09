@@ -1,4 +1,4 @@
-## [Hi there 👋](https://buy-member.com/)
+## [Buy Telegram views bot 👋](https://buy-member.com/)
 Telegram views bot
 
 https://buy-member.com/
