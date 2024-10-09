@@ -1,0 +1,21 @@
+{
+    "name": "amirreza/mo_backlink",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "mo_App\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirreza33",
+            "email": "96728615+amirreza33@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "gregwar/captcha": "1.1.6"
+
+    }
+
+}
